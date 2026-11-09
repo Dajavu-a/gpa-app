@@ -1,0 +1,32 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "code": "969-101",
+      "name": "Programming Fundamentals",
+      "credit": 3,
+      "score": 87
+    },
+    {
+      "id": 2,
+      "code": "969-203",
+      "name": "Web Application Development",
+      "credit": 3,
+      "score": 78
+    },
+    {
+      "id": 3,
+      "code": "969-301",
+      "name": "Database Systems",
+      "credit": 3,
+      "score": 92
+    },
+    {
+      "code": "969-401",
+      "name": "Project3-001 ",
+      "credit": 6,
+      "score": 60,
+      "id": 4
+    }
+  ]
+}
